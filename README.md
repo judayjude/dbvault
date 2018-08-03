@@ -56,7 +56,7 @@ Create a backup of the zboot, after shutting down instance:
 
 This creates a backup file in the snapshots/ dir:
 
-	29M Feb 11 13:59 glide.140211.1358.fresh-zboot.sql.gz
+	29M Feb 11 13:59 calgary.140211.1358.fresh-zboot.sql.gz
 
 Install various plugins and otherwise prepare instance for investigative task.
 
